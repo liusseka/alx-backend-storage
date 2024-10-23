@@ -1,0 +1,2 @@
+// delete a match
+db.school.delete_many({"name": "Holberton school"})
